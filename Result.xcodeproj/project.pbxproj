@@ -556,6 +556,7 @@
 		52B9AEB219C35B1D0039E5D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COMBINE_HIDPI_IMAGES = YES;
@@ -577,6 +578,7 @@
 		52B9AEB319C35B1D0039E5D7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COMBINE_HIDPI_IMAGES = YES;
