@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28B71A881AB346CC00A0A87D /* Box.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2806143D1AB33A2000903F3D /* Box.framework */; };
 		52B9AEA119C35B1D0039E5D7 /* Result.h in Headers */ = {isa = PBXBuildFile; fileRef = 52B9AEA019C35B1D0039E5D7 /* Result.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		52B9AEA719C35B1D0039E5D7 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52B9AE9B19C35B1D0039E5D7 /* Result.framework */; };
 		52B9AEAE19C35B1D0039E5D7 /* ResultTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B9AEAD19C35B1D0039E5D7 /* ResultTests.swift */; };
@@ -85,6 +86,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28B71A881AB346CC00A0A87D /* Box.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
